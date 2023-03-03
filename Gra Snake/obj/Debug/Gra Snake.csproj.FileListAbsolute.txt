@@ -1,0 +1,70 @@
+C:\Users\lenovo\source\repos\Gra Snake\Gra Snake\bin\Debug\Gra Snake.exe.config
+C:\Users\lenovo\source\repos\Gra Snake\Gra Snake\bin\Debug\Gra Snake.exe
+C:\Users\lenovo\source\repos\Gra Snake\Gra Snake\bin\Debug\Gra Snake.pdb
+C:\Users\lenovo\source\repos\Gra Snake\Gra Snake\obj\Debug\Gra Snake.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Gra Snake\Gra Snake\obj\Debug\Gra_Snake.Form1.resources
+C:\Users\lenovo\source\repos\Gra Snake\Gra Snake\obj\Debug\Gra_Snake.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Gra Snake\Gra Snake\obj\Debug\Gra Snake.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Gra Snake\Gra Snake\obj\Debug\Gra Snake.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Gra Snake\Gra Snake\obj\Debug\Gra Snake.exe
+C:\Users\lenovo\source\repos\Gra Snake\Gra Snake\obj\Debug\Gra Snake.pdb
+C:\Users\Kamil\Desktop\Snake\Gra Snake\Gra Snake\bin\Debug\Gra Snake.exe.config
+C:\Users\Kamil\Desktop\Snake\Gra Snake\Gra Snake\bin\Debug\Gra Snake.exe
+C:\Users\Kamil\Desktop\Snake\Gra Snake\Gra Snake\bin\Debug\Gra Snake.pdb
+C:\Users\Kamil\Desktop\Snake\Gra Snake\Gra Snake\obj\Debug\Gra Snake.csprojAssemblyReference.cache
+C:\Users\Kamil\Desktop\Snake\Gra Snake\Gra Snake\obj\Debug\Gra_Snake.Form1.resources
+C:\Users\Kamil\Desktop\Snake\Gra Snake\Gra Snake\obj\Debug\Gra_Snake.Properties.Resources.resources
+C:\Users\Kamil\Desktop\Snake\Gra Snake\Gra Snake\obj\Debug\Gra Snake.csproj.GenerateResource.cache
+C:\Users\Kamil\Desktop\Snake\Gra Snake\Gra Snake\obj\Debug\Gra Snake.exe
+C:\Users\Kamil\Desktop\Snake\Gra Snake\Gra Snake\obj\Debug\Gra Snake.pdb
+D:\Szkoła\Studia\Studia_4_semestr\Projekt_programowanie_JASZUK\Snake\Gra Snake\Gra Snake\bin\Debug\Gra Snake.exe.config
+D:\Szkoła\Studia\Studia_4_semestr\Projekt_programowanie_JASZUK\Snake\Gra Snake\Gra Snake\bin\Debug\Gra Snake.exe
+D:\Szkoła\Studia\Studia_4_semestr\Projekt_programowanie_JASZUK\Snake\Gra Snake\Gra Snake\bin\Debug\Gra Snake.pdb
+D:\Szkoła\Studia\Studia_4_semestr\Projekt_programowanie_JASZUK\Snake\Gra Snake\Gra Snake\obj\Debug\Gra Snake.csprojAssemblyReference.cache
+D:\Szkoła\Studia\Studia_4_semestr\Projekt_programowanie_JASZUK\Snake\Gra Snake\Gra Snake\obj\Debug\Gra_Snake.Form1.resources
+D:\Szkoła\Studia\Studia_4_semestr\Projekt_programowanie_JASZUK\Snake\Gra Snake\Gra Snake\obj\Debug\Gra_Snake.Properties.Resources.resources
+D:\Szkoła\Studia\Studia_4_semestr\Projekt_programowanie_JASZUK\Snake\Gra Snake\Gra Snake\obj\Debug\Gra Snake.csproj.GenerateResource.cache
+D:\Szkoła\Studia\Studia_4_semestr\Projekt_programowanie_JASZUK\Snake\Gra Snake\Gra Snake\obj\Debug\Gra Snake.exe
+D:\Szkoła\Studia\Studia_4_semestr\Projekt_programowanie_JASZUK\Snake\Gra Snake\Gra Snake\obj\Debug\Gra Snake.pdb
+G:\Projekt\Gra Snake\bin\Debug\Gra Snake.exe.config
+G:\Projekt\Gra Snake\bin\Debug\Gra Snake.exe
+G:\Projekt\Gra Snake\bin\Debug\Gra Snake.pdb
+G:\Projekt\Gra Snake\obj\Debug\Gra Snake.csprojAssemblyReference.cache
+G:\Projekt\Gra Snake\obj\Debug\Gra_Snake.Form1.resources
+G:\Projekt\Gra Snake\obj\Debug\Gra_Snake.Properties.Resources.resources
+G:\Projekt\Gra Snake\obj\Debug\Gra Snake.csproj.GenerateResource.cache
+G:\Projekt\Gra Snake\obj\Debug\Gra Snake.csproj.CoreCompileInputs.cache
+G:\Projekt\Gra Snake\obj\Debug\Gra Snake.exe
+G:\Projekt\Gra Snake\obj\Debug\Gra Snake.pdb
+D:\Studia\Snake\Stara wersja (czysta)\Gra Snake\bin\Debug\Gra Snake.exe.config
+D:\Studia\Snake\Stara wersja (czysta)\Gra Snake\bin\Debug\Gra Snake.exe
+D:\Studia\Snake\Stara wersja (czysta)\Gra Snake\bin\Debug\Gra Snake.pdb
+D:\Studia\Snake\Stara wersja (czysta)\Gra Snake\obj\Debug\Gra Snake.csprojAssemblyReference.cache
+D:\Studia\Snake\Stara wersja (czysta)\Gra Snake\obj\Debug\Gra_Snake.Form1.resources
+D:\Studia\Snake\Stara wersja (czysta)\Gra Snake\obj\Debug\Gra_Snake.Properties.Resources.resources
+D:\Studia\Snake\Stara wersja (czysta)\Gra Snake\obj\Debug\Gra Snake.csproj.GenerateResource.cache
+D:\Studia\Snake\Stara wersja (czysta)\Gra Snake\obj\Debug\Gra Snake.csproj.CoreCompileInputs.cache
+D:\Studia\Snake\Stara wersja (czysta)\Gra Snake\obj\Debug\Gra Snake.exe
+D:\Studia\Snake\Stara wersja (czysta)\Gra Snake\obj\Debug\Gra Snake.pdb
+C:\Users\Kamil\Desktop\Snake\Gra Snake\bin\Debug\Gra Snake.exe.config
+C:\Users\Kamil\Desktop\Snake\Gra Snake\bin\Debug\Gra Snake.exe
+C:\Users\Kamil\Desktop\Snake\Gra Snake\bin\Debug\Gra Snake.pdb
+C:\Users\Kamil\Desktop\Snake\Gra Snake\obj\Debug\Gra Snake.csproj.AssemblyReference.cache
+C:\Users\Kamil\Desktop\Snake\Gra Snake\obj\Debug\Gra Snake.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kamil\Desktop\Snake\Gra Snake\obj\Debug\Gra_Snake.Form1.resources
+C:\Users\Kamil\Desktop\Snake\Gra Snake\obj\Debug\Gra_Snake.Properties.Resources.resources
+C:\Users\Kamil\Desktop\Snake\Gra Snake\obj\Debug\Gra Snake.csproj.GenerateResource.cache
+C:\Users\Kamil\Desktop\Snake\Gra Snake\obj\Debug\Gra Snake.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Snake\Gra Snake\obj\Debug\Gra Snake.exe
+C:\Users\Kamil\Desktop\Snake\Gra Snake\obj\Debug\Gra Snake.pdb
+C:\Users\Admin Pc\Desktop\Snake\Snake\Gra Snake\bin\Debug\Gra Snake.exe.config
+C:\Users\Admin Pc\Desktop\Snake\Snake\Gra Snake\bin\Debug\Gra Snake.exe
+C:\Users\Admin Pc\Desktop\Snake\Snake\Gra Snake\bin\Debug\Gra Snake.pdb
+C:\Users\Admin Pc\Desktop\Snake\Snake\Gra Snake\obj\Debug\Gra Snake.csproj.AssemblyReference.cache
+C:\Users\Admin Pc\Desktop\Snake\Snake\Gra Snake\obj\Debug\Gra Snake.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin Pc\Desktop\Snake\Snake\Gra Snake\obj\Debug\Gra_Snake.Form1.resources
+C:\Users\Admin Pc\Desktop\Snake\Snake\Gra Snake\obj\Debug\Gra_Snake.Properties.Resources.resources
+C:\Users\Admin Pc\Desktop\Snake\Snake\Gra Snake\obj\Debug\Gra Snake.csproj.GenerateResource.cache
+C:\Users\Admin Pc\Desktop\Snake\Snake\Gra Snake\obj\Debug\Gra Snake.csproj.CoreCompileInputs.cache
+C:\Users\Admin Pc\Desktop\Snake\Snake\Gra Snake\obj\Debug\Gra Snake.exe
+C:\Users\Admin Pc\Desktop\Snake\Snake\Gra Snake\obj\Debug\Gra Snake.pdb
